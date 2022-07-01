@@ -12,7 +12,6 @@
 <h3 align="left">Social Network:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" height="30" width="40" /></a>
-<img src="https://dcbadge.vercel.app/api/shield/704759845844287618"/>
 </p>
 
 <h3 align="left">Languages and Tools i study:</h3>
