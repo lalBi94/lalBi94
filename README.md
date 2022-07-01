@@ -1,6 +1,8 @@
+<p style="margin: 15px;" align="center">
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Full-Stack+student;">
+<img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Full-Stack+student;">
 <h3 align="center">A passionate full-stack developer from France</h3>
+</p>
 
 - 🔭 I’m currently working on **_Find.lib**
 
