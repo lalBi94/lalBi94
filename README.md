@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Lua, Framwork : CodeIgniter**
 
-- 📫 How to reach me **bilal@boudjemline.fr**
+- 📫 **bilal@boudjemline.fr**
 
 <h3 align="left">Social Network:</h3>
 <p align="left">
