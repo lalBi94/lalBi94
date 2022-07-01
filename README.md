@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **_Find.lib**
 
-- 🌱 I’m currently learning **.Lua, Framwork : CodeIgniter**
+- 🌱 I’m currently learning **.Lua, Framework : CodeIgniter**
 
 - 📫 **bilal@boudjemline.fr**
 
