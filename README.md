@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BetterWeb** (CSS:Framework)
 
-- 🌱 I’m currently learning **.Lua, Framework : CodeIgniter**
+- 🌱 I’m currently learning Framework : CodeIgniter**
 
 - 📫 **bilal@boudjemline.fr**
 
