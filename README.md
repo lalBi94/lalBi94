@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![waving-hand-joypixels](https://user-images.githubusercontent.com/75674006/176803450-e991be9f-08dd-467f-a71a-a4007dc162e2.gif), I'm Bilal</h1>
+<h1 align="center">Hi, I'm Bilal</h1>
 <p style="margin: 15px;" align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Full-Stack+student;">
   <h3 align="center">A passionate full-stack developer from France</h3>
