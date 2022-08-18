@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Full-Stack+student;">
 </p>
 
-- 🔭 I’m currently working on **human project (To prove that life is a code)**
-
-- 🌱 I’m currently learning LUA language 
-
+- 🔭 I’m currently working on **Krypton Project (krp or drp suits)**
 - 📫 **bilal@boudjemline.fr**
 
 <h3 align="left">Social Network:</h3>
