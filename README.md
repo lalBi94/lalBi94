@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" height="30" width="40" /></a>
 </p>
 <a href="https://discord.gg/xpCc6XmUaX">Krypton Project :: Discord</a><br/>
+<a href="https://kryptonproject.tebex.io/">Krypton Project :: Tebex</a>
 <a href="http://www.hard-system.fr/">Krypton Project :: Website</a>
 
 <h3 align="left">Languages and Tools i study:</h3>
