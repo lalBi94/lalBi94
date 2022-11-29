@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bilal</h1>
+<h1 align="center">Bilal Boudjemline</h1>
 <p style="margin: 15px;" align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=gray&center=true&vCenter=true&lines=C.Sciences+student;">
 </p>
