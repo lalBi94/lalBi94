@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on **<span style="text-decoration: underline;">Krypton Project</span> (krp or drp suits)**
-- 📫 **bilal.boudjemline@etu.u-pec.fr**
+- 📫 **bilal@boudjemline.fr**
 
 <h3 align="left">Social Network:</h3>
 <p align="left">
