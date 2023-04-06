@@ -5,12 +5,7 @@
 
 - 🔭 I’m currently working on **<span style="text-decoration: underline;">Krypton Project</span> (krp or drp suits)**
 - 📫 **bilal@boudjemline.fr**
-
-<h3 align="left">Social Network</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" height="30" width="40" /></a>
-</p>
-
+- 
 <h3 align="left">Krypton Project</h3>
 <a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
