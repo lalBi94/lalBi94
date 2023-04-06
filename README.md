@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<span style="text-decoration: underline;">Krypton Project</span> (krp or drp suits)**
 - 📫 **bilal@boudjemline.fr**
-- 
+
 <h3 align="left">Krypton Project</h3>
 <a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
