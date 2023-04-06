@@ -1,6 +1,6 @@
 <h1 align="center">Bilal Boudjemline</h1>
 <p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=gray&center=true&vCenter=true&lines=Computer Sciences+student;">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=gray&center=true&vCenter=true&lines=Computer+Sciences+student;">
 </p>
 
 - 🔭 I’m currently working on **<span style="text-decoration: underline;">Krypton Project</span> (krp or drp suits)**
