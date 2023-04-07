@@ -11,7 +11,7 @@
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
 <a href="http://www.hard-system.fr/">Website</a>
 
-## My Skill Set  
+## Technologies used  
 <table style="background-color: white;"><tr><td valign="top" width="33%">
 
 
