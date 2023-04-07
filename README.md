@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=gray&center=true&vCenter=true&lines=Computer+Sciences+student;">
 </p>
 
-- 📫 **bilal@boudjemline.fr**
+📫 **bilal@boudjemline.fr**
 
 <h3 align="left">Krypton Project</h3>
 <a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
