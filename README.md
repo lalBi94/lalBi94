@@ -12,7 +12,7 @@
 <a href="http://www.hard-system.fr/">Website</a>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="background-color: white;"><tr><td valign="top" width="33%">
 
 
 
@@ -51,7 +51,7 @@
 
 
 ### System  
-<div align="center" style="background: white;">  
+<div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
