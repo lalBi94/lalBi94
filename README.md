@@ -66,7 +66,7 @@
 
 <div align="center">
 <br/><img src="https://github-readme-stats.vercel.app/api?username=lalBi94&show_icons=true&theme=github_dark"/>
-</div>
+</div><br/><br/>
 
 <div align="center">
 <a href="https://github.com/lalBi94" target="_blank">
