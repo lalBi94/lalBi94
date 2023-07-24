@@ -10,6 +10,9 @@
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
 <a href="http://www.hard-system.fr/">Website</a>
 
+<h3 align="left">Krypton Project</h3>
+<a href="https://cssbattle.dev/player/generalzod">CSS Battle</a>
+
 <h3>Technologies used</h3>
 <table style="background-color: white;"><tr><td valign="top" width="33%">
 
