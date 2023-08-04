@@ -10,7 +10,7 @@
 <a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
 
-<h3 align="left">Krypton Project</h3>
+<h3 align="left">Hobbies</h3>
 <a href="https://cssbattle.dev/player/generalzod">CSS Battle</a>
 
 <h3>Technologies used</h3>
