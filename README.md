@@ -6,9 +6,9 @@
 📫 **bilal@boudjemline.fr**
 
 <h3 align="left">Krypton Project</h3>
+<a href="https://lalbi94.github.io/ZODShop/">Personal website</a>
 <a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
-<a href="http://www.hard-system.fr/">Website</a>
 
 <h3 align="left">Krypton Project</h3>
 <a href="https://cssbattle.dev/player/generalzod">CSS Battle</a>
