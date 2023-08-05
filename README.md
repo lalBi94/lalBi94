@@ -12,6 +12,7 @@
 
 <h3 align="left">Hobbies</h3>
 <a href="https://cssbattle.dev/player/generalzod">CSS Battle</a>
+<a href="https://codepen.io/lalBi94">CodePen</a>
 
 <h3>Technologies used</h3>
 <table style="background-color: white;"><tr><td valign="top" width="33%">
