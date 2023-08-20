@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&weight=800&pause=1000&color=F7E400&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+developer+junior">
 </p>
 
-📫 **bilal@boudjemline.fr**
+📫 **bilal@boudjemline.fr**<br/>
+<a href="https://cvdesignr.com/p/64c576c942284">CV</a>
 
 <h3 align="left">Krypton Project</h3>
 <a href="https://lalbi94.github.io/ZODShop/">Personal website</a><br/>
