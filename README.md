@@ -7,16 +7,16 @@
 <a href="https://cvdesignr.com/p/64c576c942284">CV</a>
 
 <h3 align="left">Krypton Project</h3>
-<a href="https://lalbi94.github.io/ZODShop/">Personal website</a><br/>
-<a href="https://discord.gg/xpCc6XmUaX">Discord</a><br/>
-<a href="https://kryptonproject.tebex.io/">Tebex</a><br/>
+<a href="https://lalbi94.github.io/ZODShop/" target="_blank">Personal website</a><br/>
+<a href="https://discord.gg/xpCc6XmUaX" target="_blank">Discord</a><br/>
+<a href="https://kryptonproject.tebex.io/" target="_blank">Tebex</a><br/>
 
 <h3 align="left">Hobbies</h3>
-<a href="https://cssbattle.dev/player/generalzod">CSS Battle</a><br/>
-<a href="https://codepen.io/lalBi94">CodePen</a>
+<a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
+<a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
 
 <h3 align="left">Project</h3>
-<a href="https://lalbi94.github.io/Douze/">The Sims 4 Cheats codes page references</a><br/>
+<a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
 
 <h3>Technologies used</h3>
 <table style="background-color: white;"><tr><td valign="top" width="33%">
