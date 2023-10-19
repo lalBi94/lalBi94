@@ -15,7 +15,7 @@
 <a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
 <a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
 
-<h3 align="left">Project</h3>
+<h3 align="left">Projects</h3>
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
 
 <h3>Technologies used</h3>
