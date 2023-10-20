@@ -1,7 +1,4 @@
 <h1 align="center">Bilal Boudjemline</h1>
-<p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&weight=800&pause=1000&color=F7E400&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+developer+junior">
-</p>
 
 📫 **bilal@boudjemline.fr**<br/>
 <a href="https://cvdesignr.com/p/64c576c942284">CV</a>
@@ -70,11 +67,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<div align="center">
-<br/><img src="https://github-readme-stats.vercel.app/api?username=lalBi94&show_icons=true&theme=github_dark"/>
-</div><br/><br/>
+</td></tr></table><br/><br/>
 
 <div align="center">
 <a href="https://github.com/lalBi94" target="_blank">
