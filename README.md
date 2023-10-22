@@ -8,15 +8,15 @@
 <a href="https://discord.gg/xpCc6XmUaX" target="_blank">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/" target="_blank">Tebex</a><br/>
 
-<h3 align="left">Hobbies</h3>
-<a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
-<a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
-
-<h3 align="left">Projects</h3>
+## Others Projects
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
 <a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a>
 
-<h3>Technologies used</h3>
+## Hobbies
+<a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
+<a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
+
+## Technologies used
 <table style="background-color: white;"><tr><td valign="top" width="33%">
 
 <h3>Frontend</h3>
