@@ -14,6 +14,7 @@
 
 <h3 align="left">Projects</h3>
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
+<a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a>
 
 <h3>Technologies used</h3>
 <table style="background-color: white;"><tr><td valign="top" width="33%">
