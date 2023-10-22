@@ -3,7 +3,7 @@
 📫 **bilal@boudjemline.fr**<br/>
 <a href="https://cvdesignr.com/p/64c576c942284">CV</a>
 
-<h3 align="left">Krypton Project</h3>
+## Krypton Project
 <a href="https://lalbi94.github.io/ZODShop/" target="_blank">Personal website</a><br/>
 <a href="https://discord.gg/xpCc6XmUaX" target="_blank">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/" target="_blank">Tebex</a><br/>
