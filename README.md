@@ -4,6 +4,7 @@
 <a href="https://cvdesignr.com/p/64c576c942284">CV</a>
 
 ## Krypton Project
+<a href="https://fr.fiverr.com/fr0mkrypton" target="_blank">Fiverr Profile</a><br/>
 <a href="https://lalbi94.github.io/ZODShop/" target="_blank">Personal website</a><br/>
 <a href="https://discord.gg/xpCc6XmUaX" target="_blank">Discord</a><br/>
 <a href="https://kryptonproject.tebex.io/" target="_blank">Tebex</a><br/>
