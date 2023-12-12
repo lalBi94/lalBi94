@@ -17,7 +17,7 @@
 <a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
 <a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
 
-## Technologies used
+## Stack
 <table style="background-color: white;"><tr><td valign="top" width="33%">
 
 <h3>Frontend</h3>
