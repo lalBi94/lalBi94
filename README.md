@@ -1,4 +1,4 @@
-<h1 align="center">Bilal Boudjemline</h1>
+<h1 align="center">Bilal Boudjemline ∨ General Zod</h1>
 
 📫 **bilal.boudjemline@etu.u-pec.fr**<br/>
 <a href="https://cvdesignr.com/p/64c576c942284">CV</a>
