@@ -11,7 +11,7 @@
 
 ## Others Projects
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
-<a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a>
+<a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a><br/>
 <a href="https://nyruvizion.github.io/NYRU/#/home" target="_blank">NYRU website portfolio</a>
 
 ## Hobbies
