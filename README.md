@@ -1,7 +1,6 @@
 <h1 align="center">Bilal Boudjemline ∨ General Zod</h1>
 
 📫 **bilal.boudjemline@etu.u-pec.fr**<br/>
-<a href="https://cvdesignr.com/p/64c576c942284">CV</a>
 
 ## Krypton Project
 <a href="https://fr.fiverr.com/fr0mkrypton" target="_blank">Fiverr Profile</a><br/>
