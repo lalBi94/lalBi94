@@ -17,6 +17,7 @@
 <a href="https://nyruvizion.github.io/NYRU/#/home" target="_blank">NYRU website portfolio</a>
 
 ## Hobbies
+<a href="https://leetcode.com/u/lalBi94/" target="_blank">Leetcode</a><br/>
 <a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
 <a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
 
