@@ -2,7 +2,7 @@
 
 📫 **bilal.boudjemline@edu.esiee.fr**<br/>
 
-## My Portfolio
+## Portfolio
 <a href="https://perso.esiee.fr/~boudjemb/" target="_blank">HERE</a><br/>
 
 ## Online Projects
