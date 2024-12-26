@@ -1,17 +1,11 @@
 <h1 align="center">Bilal Boudjemline ∨ General Zod</h1>
 
-📫 **bilal.boudjemline@etu.u-pec.fr**<br/>
+📫 **bilal.boudjemline@edu.esiee.fr**<br/>
 
 ## My Portfolio
 <a href="https://perso.esiee.fr/~boudjemb/" target="_blank">HERE</a><br/>
 
-## Krypton Project
-<a href="https://fr.fiverr.com/fr0mkrypton" target="_blank">Fiverr Profile</a><br/>
-<a href="https://lalbi94.github.io/ZODShop/" target="_blank">Personal website</a><br/>
-<a href="https://discord.gg/xpCc6XmUaX" target="_blank">Discord</a><br/>
-<a href="https://kryptonproject.tebex.io/" target="_blank">Tebex</a><br/>
-
-## Others Projects
+## Online Projects
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
 <a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a><br/>
 <a href="https://nyruvizion.github.io/NYRU/#/home" target="_blank">NYRU website portfolio</a>
