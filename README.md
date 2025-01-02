@@ -1,5 +1,7 @@
 <h2 align="center">Bilal Boudjemline</h2>
 
+<img align="right" height="150" src="https://media2.giphy.com/media/riTgsJKK8lwRZ2orwd/giphy.gif?cid=6c09b9520sltp8y8l1a3luya2lvlmb0rq8d7crc3li7b0e00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="12" />
@@ -17,8 +19,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
 </div>
-
-<img align="right" height="150" src="https://media2.giphy.com/media/riTgsJKK8lwRZ2orwd/giphy.gif?cid=6c09b9520sltp8y8l1a3luya2lvlmb0rq8d7crc3li7b0e00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
