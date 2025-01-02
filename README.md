@@ -1,11 +1,5 @@
 <h2 align="center">Bilal Boudjemline</h2>
 
-###
-
-<div align="center"></div>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="12" />
