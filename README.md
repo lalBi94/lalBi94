@@ -1,4 +1,4 @@
-<h1 align="center">Bilal Boudjemline ∨ General Zod</h1>
+<h1 align="center">Bilal Boudjemline</h1>
 
 📫 **bilal.boudjemline@edu.esiee.fr**<br/>
 
