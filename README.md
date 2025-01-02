@@ -2,18 +2,18 @@
 
 📫 **bilal.boudjemline@edu.esiee.fr**<br/>
 
-## Portfolio
-<a href="https://perso.esiee.fr/~boudjemb/" target="_blank">HERE</a><br/>
-
-## Online Projects
-<a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
-<a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a><br/>
-<a href="https://nyru.netlify.app/#/vfx" target="_blank">NYRU website portfolio</a>
-
-## Hobbies
+## About
+<a href="https://perso.esiee.fr/~boudjemb/" target="_blank">Portfolio</a><br/>
 <a href="https://leetcode.com/u/lalBi94/" target="_blank">Leetcode</a><br/>
 <a href="https://cssbattle.dev/player/generalzod" target="_blank">CSS Battle</a><br/>
 <a href="https://codepen.io/lalBi94" target="_blank">CodePen</a>
+
+## Works
+<a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
+<a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a><br/>
+<a href="https://nyru.netlify.app/#/vfx" target="_blank">NYRU Website portfolio</a><br/>
+<a href="https://lalbi94.github.io/EKwa/" target="_blank">EKwa</a><br/>
+<a href="https://github.com/lalBi94/scrapper-fandom" target="_blank">Scrapper of Fandom website</a>
 
 ## Stack
 <table style="background-color: white;"><tr><td valign="top" width="33%">
