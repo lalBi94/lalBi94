@@ -1,5 +1,3 @@
-<h2 align="center">Bilal Boudjemline</h2>
-
 <img align="right" height="150" src="https://media2.giphy.com/media/riTgsJKK8lwRZ2orwd/giphy.gif?cid=6c09b9520sltp8y8l1a3luya2lvlmb0rq8d7crc3li7b0e00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align="left">
