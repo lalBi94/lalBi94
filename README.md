@@ -38,6 +38,7 @@
 <a href="https://nyru.netlify.app/#/vfx" target="_blank">NYRU Website portfolio</a><br/>
 <a href="https://lalbi94.github.io/EKwa/" target="_blank">EKwa</a><br/>
 <a href="https://github.com/lalBi94/scrapper-fandom" target="_blank">Scrapper of Fandom website</a>
+<a href="https://club-patinoire-esiee.fr/accueil" target="_blank">ESIEE Paris ice skating club</a><br/>
 
 ## About
 <a href="https://perso.esiee.fr/~boudjemb/" target="_blank">Portfolio</a><br/>
