@@ -18,27 +18,19 @@
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
 </div>
 
-###
-
-###
-
 <div align="left">
   <a href="mailto:bilal.boudjemline@edu.esiee.fr" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/bilal-boudjemline-54365b228/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.twitch.tv/bilaaaaaaaaaal" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
 </div>
 
-###
-
-###
-
 ## Works
 <a href="https://lalbi94.github.io/Douze/" target="_blank">The Sims 4 Cheats codes page references</a><br/>
 <a href="https://lalbi94.github.io/ZBrutF/" target="_blank">Online password brute forcing</a><br/>
 <a href="https://nyru.netlify.app/#/vfx" target="_blank">NYRU Website portfolio</a><br/>
 <a href="https://lalbi94.github.io/EKwa/" target="_blank">EKwa</a><br/>
-<a href="https://github.com/lalBi94/scrapper-fandom" target="_blank">Scrapper of Fandom website</a>
-<a href="https://club-patinoire-esiee.fr/accueil" target="_blank">ESIEE Paris ice skating club</a><br/>
+<a href="https://github.com/lalBi94/scrapper-fandom" target="_blank">Scrapper of Fandom website</a><br/>
+<a href="https://club-patinoire-esiee.fr/accueil" target="_blank">ESIEE Paris ice skating club</a>
 
 ## About
 <a href="https://perso.esiee.fr/~boudjemb/" target="_blank">Portfolio</a><br/>
